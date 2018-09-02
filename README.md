@@ -5,4 +5,4 @@ Introduction to Computation and Programming Using Python with Applications to Da
 
 This repository is only for my self-learning.
 
-(データサイエンスの基礎を学習するためのリポジトリです)
+(データサイエンスの基礎を学習するための個人的なリポジトリです)
